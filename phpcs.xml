@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="monday-main">
+  <rule ref="PSR12"/>
+  <file>core</file>
+  <file>app</file>
+</ruleset>
